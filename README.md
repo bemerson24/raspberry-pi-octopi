@@ -4,6 +4,8 @@
 
 ## Overview
 
+**Portfolio overview:** [View the complete cybersecurity learning portfolio](https://github.com/bemerson24/cybersecurity-virtual-lab-environment/blob/main/PORTFOLIO-OVERVIEW.md).
+
 I configured a Raspberry Pi 400 running OctoPi to manage a Creality CR-10S and a Snapmaker A350. I could switch between the two printers, operating one at a time. The setup supported uploading and starting prints, camera monitoring, timelapses, and additional features.
 
 This repository documents that earlier project retrospectively in October 2026. It records my hands-on experience; it is not a distribution of OctoPi or a recovered copy of the original configuration.
