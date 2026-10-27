@@ -52,6 +52,10 @@ This account is based on my recollection of the completed project. Original scre
 
 Project dates describe when I did the work. Repository commits describe when I documented it.
 
-## Related project
+## Related portfolio projects
 
-The same Raspberry Pi 400 was later repurposed for [Home Network Security — Pi-hole](https://github.com/bemerson24/raspberry-pi-pihole). That is a separate project with a different purpose and timeline.
+- [Raspberry Pi Pi-hole](https://github.com/bemerson24/raspberry-pi-pihole) — later use of the Raspberry Pi 400 for DNS filtering and home-network investigation.
+- [Cybersecurity Virtual Lab Environment](https://github.com/bemerson24/cybersecurity-virtual-lab-environment) — ongoing Windows and Kali Linux virtualization project.
+- [Linux Security Baseline Assessment — Ubuntu WSL 2](https://github.com/bemerson24/ubuntu-wsl2-security-baseline) — separate, guided Linux diagnostics exercise.
+
+The OctoPi work is a retrospective account of the earlier printer-management setup, not a current cybersecurity lab or a claim of recovered original configuration.
