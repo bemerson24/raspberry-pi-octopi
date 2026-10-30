@@ -61,3 +61,7 @@ Project dates describe when I did the work. Repository commits describe when I d
 - [Linux Security Baseline Assessment — Ubuntu WSL 2](https://github.com/bemerson24/ubuntu-wsl2-security-baseline) — separate, guided Linux diagnostics exercise.
 
 The OctoPi work is a retrospective account of the earlier printer-management setup, not a current cybersecurity lab or a claim of recovered original configuration.
+
+## Professional profile
+
+[Brian Emerson on LinkedIn](https://www.linkedin.com/in/brianemersonpdx/) — professional background, education and career development.
