@@ -35,7 +35,7 @@ Specific plugin names, software versions, camera hardware, and BLTouch firmware 
 
 The project combined a Raspberry Pi software environment with physical printer hardware. It involved configuring the management interface, working with two different printers, and extending a more manual printing workflow with monitoring and hardware improvements.
 
-The BLTouch upgrade was a separate hardware improvement to the CR-10S. It is included here as part of the wider printing setup rather than presented as an OctoPi feature.
+The BLTouch was a hardware upgrade to the CR-10S, separate from OctoPi.
 
 **Skills demonstrated:** Raspberry Pi configuration, OctoPrint use, hardware/software integration, 3D-printer operation, hardware upgrades, and troubleshooting.
 
@@ -59,8 +59,6 @@ Project dates describe when I did the work. Repository commits describe when I d
 - [Raspberry Pi Pi-hole](https://github.com/bemerson24/raspberry-pi-pihole) — later use of the Raspberry Pi 400 for DNS filtering and home-network investigation.
 - [Cybersecurity Virtual Lab Environment](https://github.com/bemerson24/cybersecurity-virtual-lab-environment) — ongoing Windows and Kali Linux virtualization project.
 - [Linux Security Baseline Assessment — Ubuntu WSL 2](https://github.com/bemerson24/ubuntu-wsl2-security-baseline) — separate, guided Linux diagnostics exercise.
-
-The OctoPi work is a retrospective account of the earlier printer-management setup, not a current cybersecurity lab or a claim of recovered original configuration.
 
 ## Professional profile
 
