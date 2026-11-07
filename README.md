@@ -4,7 +4,7 @@
 
 ## Overview
 
-**Portfolio overview:** [View the complete cybersecurity learning portfolio](https://github.com/bemerson24/cybersecurity-virtual-lab-environment/blob/main/PORTFOLIO-OVERVIEW.md).
+**Portfolio overview:** [View the cybersecurity portfolio](https://github.com/bemerson24/cybersecurity-virtual-lab-environment/blob/main/PORTFOLIO-OVERVIEW.md).
 
 I configured a Raspberry Pi 400 running OctoPi to manage a Creality CR-10S and a Snapmaker A350. I could switch between the two printers, operating one at a time. The setup supported uploading and starting prints, camera monitoring, timelapses, and additional features.
 
@@ -58,7 +58,7 @@ Project dates describe when I did the work. Repository commits describe when I d
 
 - [Raspberry Pi Pi-hole](https://github.com/bemerson24/raspberry-pi-pihole) — later use of the Raspberry Pi 400 for DNS filtering and home-network investigation.
 - [Cybersecurity Virtual Lab Environment](https://github.com/bemerson24/cybersecurity-virtual-lab-environment) — ongoing Windows and Kali Linux virtualization project.
-- [Linux Security Baseline Assessment — Ubuntu WSL 2](https://github.com/bemerson24/ubuntu-wsl2-security-baseline) — separate, guided Linux diagnostics exercise.
+- [Linux Security Baseline Assessment — Ubuntu WSL 2](https://github.com/bemerson24/ubuntu-wsl2-security-baseline) — separate Linux diagnostics assessment.
 
 ## Professional profile
 
